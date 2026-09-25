@@ -218,4 +218,4 @@ MusicBee is provided as a full free version with all features and updates includ
 Start your music journey today with MusicBee, the free and powerful music player! Download now and experience the joy of organized music.
 
 ---
-**Last updated:** 2026-09-24 22:08:21 UTC
+**Last updated:** 2026-09-25 01:16:22 UTC
